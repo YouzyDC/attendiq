@@ -1,0 +1,12 @@
+id,code,title,units,instructor,instructor_email,semester,session,is_active,created_at
+1,COM221,"Basic Computer Networking",3,"Mr. Peace Adenuga",Peace@soteria.edu.ng,Second,2024/2025,1,"2026-06-18 13:29:07"
+2,COM222,"Basic Hardware Maintenance",3,"Mr. Adeleke",Adeleke@soteria.edu.ng,Second,2024/2025,1,"2026-06-18 13:29:07"
+3,COM223,"Management Information System",3,"Mr. Femi Oyetoke",Femi@soteria.edu.ng,Second,2024/2025,1,"2026-06-18 13:29:07"
+4,COM225,"File Organization & Management",3,"Mr. Adeleke",Adeleke@soteria.edu.ng,Second,2024/2025,1,"2026-06-18 13:29:07"
+5,COM224,"Web Technology",3,"Mr. Oluwanimilo Abdullahi",Abdullahi@soteria.edu.ng,Second,2024/2025,1,"2026-06-18 13:29:07"
+6,COM226,"Computer System Troubleshooting",3,"Mr. Oluwanimilo Abdullahi",Abdullahi@soteria.edu.ng,Second,2024/2025,1,"2026-06-18 13:29:07"
+7,COM227,Project,4,"Mr. Haastrup",Haastrup@soteria.edu.ng,Second,2024/2025,1,"2026-06-18 15:01:14"
+8,GNS202,"Communication in English II",2,"Mr. Oyedokun",Oyedokun@soteria.edu.ng,Second,2024/2025,1,"2026-06-18 15:02:06"
+9,SBS101,"Web Design",2,"Mr. Olayinka Jeremiah",Olayinka@soteria.edu.ng,Second,2024/2025,1,"2026-06-18 15:03:22"
+10,SIW219,Siwes,4,"Mr. Ojo Patrick",Ojo@soteria.edu.ng,Second,2024/2025,1,"2026-06-18 15:05:41"
+11,CP,"Computer Practical",0,-,,Second,2024/2025,1,"2026-06-18 15:23:43"

@@ -1,0 +1,9 @@
+id,matric_no,full_name,email,phone,gender,is_active,created_at
+1,SBS/NDCOM/24/013,"Afolabi Oluwaseun",seun@soteria.edu.ng,09027389234,Male,1,"2026-06-18 13:29:07"
+7,SBS/NDCOM/24/009,"Oladeji Samson",Samson@sbs.edu.ng,08160716514,Male,1,"2026-06-18 13:29:07"
+8,SBS/NDCOM/24/001,"Adeleye Blossom",Blossom@soteria.edu.ng,09027389234,Male,1,"2026-06-18 13:29:07"
+9,SBS/NDCOM/24/002,"Otene Elijah",Elijah@soteria.edu.ng,09027389234,Male,1,"2026-06-18 13:29:07"
+10,SBS/NDCOM/24/008,"Kolawole Theophilus",Theophilus@Soteria.edu.ng,09027389234,Male,1,"2026-06-18 13:29:07"
+15,SBS/NDCOM/24/010,"Ogunjobi Eniola",Eniola@student.edu.ng,09027389234,Female,1,"2026-06-18 13:29:07"
+16,SBS/NDCOM/24/012,"Salahudeen Esther",Esther@soteria.edu.ng,09027389234,Female,1,"2026-06-18 13:29:07"
+17,CSC/2021/016,"Omozu Joshua",Joshua@student.edu.ng,09027389234,Male,1,"2026-06-18 13:29:07"
